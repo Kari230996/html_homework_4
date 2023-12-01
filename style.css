@@ -1,0 +1,49 @@
+
+* {
+    margin: 0px auto;
+}
+
+.top {
+   display: flex;
+   margin-top: 140px;
+   margin-left: 405px;
+   margin-right: 405px;
+
+}
+
+
+h1 {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+    margin-bottom: 17px;
+    }
+
+
+p {
+    color: #666;
+    font-family: Gilroy-Regular;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 22.5px */
+    margin-bottom: 25px;
+    margin-right: 61px;
+    
+
+}
+
+
+a {
+    text-decoration: none;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 16.5px */
+}
